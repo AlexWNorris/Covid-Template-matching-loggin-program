@@ -1,2 +1,3 @@
 # Covid-Template-matching-loggin-program
-the template matching program I wrote during the lockdowns to log me into my school email 
+I wrote this program during the lockdown periods of my GCSE's inorder to speed up the process of me logging into my school email in the mornings 
+here's a video of the programm in action: 
